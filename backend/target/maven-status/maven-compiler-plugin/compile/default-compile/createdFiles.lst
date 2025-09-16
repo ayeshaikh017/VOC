@@ -1,0 +1,12 @@
+com\example\portal\controller\AuthController.class
+com\example\portal\PortalApplication.class
+com\example\portal\config\CorsConfig.class
+com\example\portal\controller\InternshipController.class
+com\example\portal\model\User.class
+com\example\portal\repo\InternshipRepository.class
+com\example\portal\repo\UserRepository.class
+com\example\portal\controller\FileController.class
+com\example\portal\model\Internship.class
+com\example\portal\controller\ProfileController.class
+com\example\portal\model\Application.class
+com\example\portal\repo\ApplicationRepository.class
